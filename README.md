@@ -26,7 +26,7 @@ do layout de referência fornecido pelo Frontend Mentor.
 
 ### Links
 - Repositório: [fm-qr-code-component](https://github.com/CamiloGCode/fm-qr-code-component)
-- Site publicado: adicione aqui o link após publicar o projeto.
+- Site publicado: [adicione aqui o link após publicar o projeto.](https://camilogcode.github.io/fm-qr-code-component/)
 - Desafio: [QR code component — Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 ## Processo de desenvolvimento
